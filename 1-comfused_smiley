@@ -1,0 +1,4 @@
+#!/bin/bash
+0x02-shell_redirections
+julien@ubuntu:/tmp/h$ ./1-comfused_smiley "(Oo)"
+julien@ubuntu:/tmp/h$
